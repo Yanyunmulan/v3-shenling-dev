@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    // 配置路径别名映射，识别类型，方便代码提示
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "types": [
+      // 添加 antdv 的类型声明文件，方便代码提示
+      "ant-design-vue/typings/global.d.ts"
+    ]
+  }
+}

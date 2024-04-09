@@ -1,0 +1,152 @@
+[
+  {
+    "toName": "西安",
+    "fromName": "乌鲁木齐",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877654",
+      "lineName": "乌鲁木齐直达西安",
+      "lineType": "接驳路线",
+      "fromAgency": "乌鲁木齐分拣中心",
+      "toAgency": "西安分拣中心",
+      "distance": "2561千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "成都",
+    "fromName": "拉萨",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "拉萨直达成都",
+      "lineType": "接驳路线",
+      "fromAgency": "拉萨分拣中心",
+      "toAgency": "成都分拣中心",
+      "distance": "1991千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "北京",
+    "fromName": "西安",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "西安直达北京",
+      "lineType": "接驳路线",
+      "fromAgency": "西安分拣中心",
+      "toAgency": "北京分拣中心",
+      "distance": "1075千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "哈尔滨",
+    "fromName": "北京",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "北京直达哈尔滨",
+      "lineType": "接驳路线",
+      "fromAgency": "北京分拣中心",
+      "toAgency": "哈尔滨分拣中心",
+      "distance": "1233千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "西安",
+    "fromName": "成都",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "成都直达西安",
+      "lineType": "接驳路线",
+      "fromAgency": "成都分拣中心",
+      "toAgency": "西安分拣中心",
+      "distance": "797千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "西安",
+    "fromName": "海口",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "海口直达西安",
+      "lineType": "接驳路线",
+      "fromAgency": "海口分拣中心",
+      "toAgency": "西安分拣中心",
+      "distance": "2069千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "北京",
+    "fromName": "海口",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "海口直达北京",
+      "lineType": "接驳路线",
+      "fromAgency": "海口分拣中心",
+      "toAgency": "北京分拣中心",
+      "distance": "2598千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "上海",
+    "fromName": "海口",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "海口直达上海",
+      "lineType": "接驳路线",
+      "fromAgency": "海口分拣中心",
+      "toAgency": "上海分拣中心",
+      "distance": "1987千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "上海",
+    "fromName": "北京",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "北京直达上海",
+      "lineType": "接驳路线",
+      "fromAgency": "北京分拣中心",
+      "toAgency": "上海分拣中心",
+      "distance": "1210千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  },
+  {
+    "toName": "台北",
+    "fromName": "上海",
+    "value": 100,
+    "name": {
+      "lineNumber": "XL877655",
+      "lineName": "上海直达台北",
+      "lineType": "接驳路线",
+      "fromAgency": "上海分拣中心",
+      "toAgency": "台北分拣中心",
+      "distance": "1210千米",
+      "cost": "8368元",
+      "time": "1678分钟"
+    }
+  }
+]

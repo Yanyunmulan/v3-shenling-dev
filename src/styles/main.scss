@@ -1,0 +1,77 @@
+@import './var.scss';
+
+// 全局样式
+body {
+  font-size: 14px;
+  color: #333;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  &:hover {
+    color: var(--color-primary);
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+// 覆盖 nprogress 默认色
+#nprogress {
+  .bar {
+    background-color: var(--color-primary) !important;
+  }
+  .peg {
+    box-shadow:
+      0 0 10px var(--color-primary),
+      0 0 5px var(--color-primary) !important;
+  }
+}
+
+// 文字不换行
+.nowrap {
+  white-space: nowrap;
+}
+
+// antd 样式覆盖
+.ant-tooltip {
+  max-width: none !important;
+}
+
+//列表中的状态启用禁用以及小圆点统一样式
+.table-column-status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin-right: 6px;
+  }
+
+  &.can-use::before {
+    background-color: #1dc779;
+  }
+
+  &.stop-use::before {
+    background-color: #e15536;
+  }
+
+  &.normal::before {
+    background-color: #419eff;
+  }
+}
